@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+body {
+    display: block;
+    margin: 8px;
+}
+
+body:focus {
+    outline: none;
+}
+
+.bd-example {
+    border-width: 0.2rem;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1.5rem;
+}
+.header_wrapper{
+	 padding-bottom: 20px;
+    padding-top: 15px;
+}
+.add_new_btn{
+	float: right;
+}
+.add_new_btn_wrapper{
+	margin-bottom: 10px;
+}
+.float_rt_cls{
+	float: right;
+}
